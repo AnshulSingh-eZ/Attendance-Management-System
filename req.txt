@@ -1,0 +1,9 @@
+tensorflow 
+keras 
+mtcnn 
+opencv-python 
+scikit-learn 
+numpy
+faiss-cpu
+mysql-connector-python
+mysql
